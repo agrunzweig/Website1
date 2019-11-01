@@ -1,13 +1,12 @@
-You can use markdown to add content to you webpage.
+This website is dedicated to knitting by Angela Grunzweig
 
-Here are some highlights of markdown syntax.
-
-# Heading 1
-## Heading 2
-### Heading 3
-
-**bold**
-*italics*
+# Works in Progress
+  * Project 1
+  * Project 2
+# Finished Projects
+  * Project 1
+  * Project 2
+# Future Projects
 
 1. List Item 1
 2. List Item 2
